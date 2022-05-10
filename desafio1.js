@@ -1,7 +1,7 @@
 // DESAFIO COMPLEMENTARIO Nº 1 //
 /* Es una adivinanza, el ganador obtendrá un premio, y el que pierda, tendra otra oportunidad */
 
-let nombreUsuario = prompt("Ingrese su nombre");
+/* let nombreUsuario = prompt("Ingrese su nombre");
 if (nombreUsuario == "") {
     alert("No ingresaste tu nombre");
 }
@@ -30,4 +30,4 @@ while (opcion !== "no") {
         }
     }
 }
-
+ */
