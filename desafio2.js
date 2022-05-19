@@ -1,4 +1,4 @@
-//CARGAR CLIENTES A BASE DE DATOS
+/* //CARGAR CLIENTES A BASE DE DATOS
 class Persona{
     constructor (nombre, apellido, localidad){
         this.nombre=nombre
@@ -9,8 +9,8 @@ class Persona{
 
 class Producto {
     constructor (id, producto){
-        this.producto=producto
         this.id=id
+        this.producto=producto
     }
 }
 class Compra{
@@ -40,4 +40,4 @@ console.log (compra.calcularTotal());
 console.log (persona2)
 console.log (producto2)
 console.log (compra2)
-console.log (compra2.calcularTotal());
+console.log (compra2.calcularTotal()); */
